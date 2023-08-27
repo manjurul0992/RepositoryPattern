@@ -10,11 +10,9 @@ namespace RepositoryFaisal.Models
         [Required(ErrorMessage = "Please Enter Description")]
 
         public string Description { get; set; }
-        public decimal Price { get; set; } //change for check//3rd /4th/branch/5th branch cmd in/5th branch cmd in
+        public decimal Price { get; set; } 
 
-	//cr bracnh and marge
-	//change file notepad
+	
     }
-    //change in cmdline in merge open in cmdline
-   
+    //1st change
 }
